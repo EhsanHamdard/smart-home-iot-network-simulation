@@ -155,9 +155,13 @@ smart-home-iot-network-simulation/
 |-- Prac8_IoT_v3.pdf
 |
 |-- screenshots/
-|   |-- topology-overview.png
-|
-|-- assets/
+|   |-- 01-topology-overview.png
+|   |-- 02-home-gateway-lan-settings.png
+|   |-- 03-home-gateway-wireless-settings.png
+|   |-- 04-tablet-iot-monitor-devices.png
+|   |-- 05-sprinkler-device-status.png
+|   |-- 06-mcu-led-program.png
+|   |-- 07-mcu-smoke-automation-code.png
 ```
 ---
 
