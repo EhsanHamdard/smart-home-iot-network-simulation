@@ -210,7 +210,6 @@ Smart_Home_Network.pkt
 
 This is an in-class IoT practical focused on foundational smart home networking and automation concepts. It is not intended to represent a production-ready secure smart home design.
 
-A separate future project will be built from scratch to demonstrate a more advanced secure smart home network with stronger segmentation, access control, and security-focused design.
 
 ---
 
