@@ -177,11 +177,28 @@ Smart_Home_Network.pkt
 
 ---
 
-## Screenshot
+## Screenshots
 
-A topology screenshot can be added here after the Packet Tracer layout is cleaned up.
+### 1. Topology Overview
+![Topology Overview](screenshots/01-topology-overview.png)
 
-![Topology Overview](screenshots/topology-overview.png)
+### 2. Home Gateway LAN Settings
+![Home Gateway LAN Settings](screenshots/02-home-gateway-lan-settings.png)
+
+### 3. Home Gateway Wireless Settings
+![Home Gateway Wireless Settings](screenshots/03-home-gateway-wireless-settings.png)
+
+### 4. Tablet IoT Monitor Devices
+![Tablet IoT Monitor Devices](screenshots/04-tablet-iot-monitor-devices.png)
+
+### 5. Sprinkler Device Status
+![Sprinkler Device Status](screenshots/05-sprinkler-device-status.png)
+
+### 6. MCU LED Program
+![MCU LED Program](screenshots/06-mcu-led-program.png)
+
+### 7. MCU Smoke Automation Code
+![MCU Smoke Automation Code](screenshots/07-mcu-smoke-automation-code.png)
 
 ---
 
